@@ -1,0 +1,29 @@
+{
+  "name": "Mongo_Scraper",
+  "version": "1.0.0",
+  "description": "Homework - a Mongoose and Cheerio new scraper app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TazerRuler/Mongo_Scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TazerRuler/Mongo_Scraper/issues"
+  },
+  "homepage": "https://github.com/TazerRuler/Mongo_Scraper#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.0",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1"
+  }
+}
